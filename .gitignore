@@ -1,0 +1,7 @@
+## data tables
+matchdata/*
+createddata/*
+.Rproj.user
+*.Rproj
+.RData
+.Rhistory

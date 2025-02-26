@@ -1,0 +1,14 @@
+
+points.csv
+    - Svr is server, ptwinner is winner of the point
+    - Set1, Set2, Gm1, Gm2, and Pts (relative to serve) describe gamestate
+    - Pt is running count of points in game
+    - Gm# is count of games in current set (starting at 0)
+    - 1st and 2nd describe what happened in point
+        - c represents a let
+        - first number is location of serve (4,5,6)
+        - n, w, d, x, g, e, and ! can all represent faults (or general error types)
+        - serve is followed by * for an ace, # for an unreturnable
+        - P and Q are penalties, S and R are missed human inputs
+        - f, b, r, s, v, z, o, p, u, y, l, m, h, i, j, k, t, and q can all represent types of shot
+
