@@ -11,4 +11,3 @@ points.csv
         - serve is followed by * for an ace, # for an unreturnable
         - P and Q are penalties, S and R are missed human inputs
         - f, b, r, s, v, z, o, p, u, y, l, m, h, i, j, k, t, and q can all represent types of shot
-
