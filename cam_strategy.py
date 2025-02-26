@@ -1,0 +1,4 @@
+
+
+## implementing Cam's strategy
+

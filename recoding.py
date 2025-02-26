@@ -90,4 +90,4 @@ def process_file(inpath, outpath, verbose = True):
 
     dat.to_csv(outpath, index = False)
 
-process_file("matchdata/charting-m-points-2020s.csv", "createddata/2020s_points.csv")
+process_file("matchdata/charting-m-points-2010s.csv", "createddata/2010s_points.csv")

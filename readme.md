@@ -9,6 +9,9 @@ Rally results (POV of serve):
 # recoding.py
 Contains useful tools for converting from the Tennis Abstract encoding format to useable data. 
 
+# wideningdata.py
+Combines match and points data
+
 # cam_strategy.py (WIP)
 Uses a strategy developed by renowned engineer Cam. Considers all previous matches and predicts winner based on their average shots per match.
 
