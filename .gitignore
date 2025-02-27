@@ -7,3 +7,9 @@ createddata/*
 *.Rproj
 .RData
 .Rhistory
+
+# python stuff
+__pycache__/*
+
+# informal data toying
+exploring.ipynb

@@ -3,16 +3,16 @@
 Predicting the results of tennis matches using data from tennisabstract.com
 
 Rally results (POV of serve):
-    - fault
-    - ace
-    - win
-    - loss
+- fault
+- ace
+- win
+- loss
 
 ### recoding.py
 Contains useful tools for converting from the Tennis Abstract encoding format to useable data. 
 
-### wideningdata.py
-Combines match and points data
+### buildingdatasets
+Does all data manipulation... populates the createddata folder.
 
 ### cam_strategy.py (WIP)
 Uses a strategy developed by renowned engineer Cam. Considers all previous matches and predicts winner based on their average shots per match.
