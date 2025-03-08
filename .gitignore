@@ -1,6 +1,7 @@
 ## data tables
 matchdata/*
 createddata/*
+matchsummaries/*
 
 # R stuff
 .Rproj.user
@@ -13,3 +14,4 @@ __pycache__/*
 
 # informal data toying
 exploring.ipynb
+exploringcovariates.ipynb
